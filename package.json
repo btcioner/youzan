@@ -1,0 +1,18 @@
+{
+  "name": "youzan",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.3.2",
+    "react-native": "0.34.1",
+    "react-native-swiper": "^1.4.11",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-native-vector-icons": "^2.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "underscore": "^1.8.3"
+  }
+}
