@@ -1,5 +1,5 @@
 /**
- * Created by ralap on 16-10-2.
+ * Created by 谢锦斌ap on 16-10-2.
  */
 import * as React from 'react';
 import { View, Navigator } from 'react-native';
